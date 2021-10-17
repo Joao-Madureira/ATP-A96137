@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  6 14:38:21 2021
-
-@author: jpm20
-"""
-
 "21 Fósforos"
 import random
 def xii():
